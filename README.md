@@ -9,7 +9,7 @@ To generate a Housie ticket, simply run the `generate_housie_ticket` method prov
 2. Navigate to the Directory: Use the cd command to navigate to the directory where your Ruby file is located. For example, if your Ruby file is located in a 
 folder named my_project, you would navigate to it like this:
 
-   $ cd path/to/my_project
+  $ cd path/to/my_project
    
 3. Run the Ruby File: Once you're in the directory containing your Ruby file, you can run it by typing ruby followed by the name of your Ruby file. For example,  if your Ruby file is named housie_ticket_generator.rb, you would run it like this:
 
