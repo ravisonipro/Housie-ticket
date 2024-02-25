@@ -11,7 +11,7 @@ folder named my_project, you would navigate to it like this:
 
    $ cd path/to/my_project
    
-3.Run the Ruby File: Once you're in the directory containing your Ruby file, you can run it by typing ruby followed by the name of your Ruby file. For example,  if your Ruby file is named housie_ticket_generator.rb, you would run it like this:
+3. Run the Ruby File: Once you're in the directory containing your Ruby file, you can run it by typing ruby followed by the name of your Ruby file. For example,  if your Ruby file is named housie_ticket_generator.rb, you would run it like this:
 
   $ ruby housie_ticket_generator.rb
 
